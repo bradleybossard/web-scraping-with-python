@@ -1,0 +1,4 @@
+web-scraping-with-python:
+  build: .
+  volumes:
+    - ".:/src"
