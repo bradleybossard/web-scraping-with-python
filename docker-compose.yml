@@ -2,3 +2,4 @@ web-scraping-with-python:
   build: .
   volumes:
     - ".:/src"
+  command: tail -f /dev/null
